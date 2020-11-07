@@ -19,4 +19,4 @@ E-Mail: **Max.Mustermann@die-mail.com**
 
 ## Bild
 
-![Das ist ein schönes Bild von uns!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.br.de%2Fwissen%2Fneandertaler-homo-sapiens-urmensch-kindheit-100.html&psig=AOvVaw0yKxf9MGJ7qUNRyQUn7o6A&ust=1604838308434000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj-i-K28OwCFQAAAAAdAAAAABAE)
+![Das ist ein schönes Bild von uns!](https://www.br.de/wissen/neandertaler-paar-nachbildung-100~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135.jpg?version=84423)
