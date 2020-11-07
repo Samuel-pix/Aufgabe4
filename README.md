@@ -1,6 +1,6 @@
-#Exemplarischer Lebenslauf
+# Exemplarischer Lebenslauf
 
-##Name, Anschrift, E-Mail:
+## Name, Anschrift, E-Mail:
 
 Name: Max Mustermann
 
@@ -9,7 +9,7 @@ Anschrift: Musterstraße 7
 E-Mail: **Max.Mustermann@die-mail.com**
 
 
-##schulische Laufbahn
+## Schulische Laufbahn
 
 > Musterschule 4 Jahre
 >
